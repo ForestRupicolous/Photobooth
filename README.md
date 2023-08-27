@@ -28,13 +28,12 @@ Transportabel oder zusammenpackbar.
 
 ## Things to bring
 * Kabeltrommel solange nicht Akkubetrieben: Wer weiß wie weit die nächste Steckdose weg ist.
-* Hintergrundlich/Lichterkette: Wenn man in einer dunklen Ecke landet hilft es bei der Bewertung des Bildes bevor der Blitz auslöst.
+* Hintergrundlich/Lichterkette/Bauszellenstrahler: Wenn man in einer dunklen Ecke landet hilft es bei der Bewertung des Bildes bevor der Blitz auslöst.
 * 
 
 ## Ideen
 - Zähler mit Benachrichtung wegen pPapier und Tinte Tausc
 - Playstationcontroller als Fernbedienung
-- Bauszellenszrahler als Grundlicht
 - QR-Code zum direkten Download
 - Server / Bildschirm mit Slideshow
 - AI gestützer Filter der aus den Fotos eine Zeichnung macht, Erweiterung: Drawbot der diese dann auch zeichnet
