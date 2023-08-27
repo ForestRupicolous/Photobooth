@@ -12,6 +12,8 @@ Nachteile:
 
 Die verwendete PiBooth-Konfiguration verwendet die Kamera im Hochformat am Stativ.
 
+Frage: Trennung Fotostation und Druckstation
+Drucken überhaupt notwendig
 
 Offene Frage: Ist die Zeit der DIY-Fotoboxen abgelaufen oder benötigt es ein neues Feature?
 
@@ -36,6 +38,14 @@ Transportabel oder zusammenpackbar.
 * 
 
 ## Ideen
+- PFEILE ZUR LINSE
+- HINTERGRUND
+- https://petapixel.com/2021/03/18/how-i-built-an-affordable-custom-photobooth-and-how-you-can-too/
+- Aktionkamera
+- RPI openCV Auslöser bei Sprunghöhe etc.
+- https://www.canon-europe.com/business/imaging-solutions/photo-booth/
+- https://www.hiti.com/product/Product.aspx?MenuID=17&lang=EN, DNP QW410 Compact Dye, Sinfonia CS2
+- Gebrauchte Canon M100
 - Ring/Macroblit, 50mm, nur Portais
 - PiKamera im Hybridmodus, ev. andere Kamera?
 - Zähler mit Benachrichtung wegen Papier und Tinte Tausch
