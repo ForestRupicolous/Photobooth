@@ -36,7 +36,10 @@ Transportabel oder zusammenpackbar.
 * 
 
 ## Ideen
-- Zähler mit Benachrichtung wegen pPapier und Tinte Tausc
+- Ring/Macroblit, 50mm, nur Portais
+- PiKamera im Hybridmodus, ev. andere Kamera?
+- Zähler mit Benachrichtung wegen Papier und Tinte Tausch
+- Professioneller Drucker
 - Playstationcontroller als Fernbedienung
 - QR-Code zum direkten Download
 - Server / Bildschirm mit Slideshow
