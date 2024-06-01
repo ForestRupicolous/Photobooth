@@ -37,6 +37,22 @@ Transportabel oder zusammenpackbar.
 * Hintergrundlich/Lichterkette/Bauszellenstrahler: Wenn man in einer dunklen Ecke landet hilft es bei der Bewertung des Bildes bevor der Blitz auslöst.
 * 
 
+## Setup
+Verbinden
+* Bildschirm
+* RPI
+* USB-Hub
+* Kamera
+* Drucker
+
+* Bildschirm starten
+* Kamera starten
+* Drucker starten
+* RPI starten
+
+* Achtung: Nicht den RPI unabsichtlich über den USB-Hub versorgen!
+* 
+
 ## Ideen
 - PFEILE ZUR LINSE
 - HINTERGRUND
